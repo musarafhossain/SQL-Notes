@@ -5,7 +5,7 @@ The SQL course will be structured into **15 comprehensive chapters**, covering e
 ### **SQL Course Outline**  
 
 #### **🔹 Basic Level**  
-✅ [**Chapter 1: Introduction to SQL**](https://musarafhossain.github.io/1_Introduction%20to%20SQL/)
+✅ [**Chapter 1: Introduction to SQL**](https://musarafhossain.github.io/SQL-Notes/1_Introduction%20to%20SQL/)
 ✅ [**Chapter 2: Data Types and Constraints**](https://musarafhossain.github.io/)  
 ✅ **Chapter 3: SQL Queries – SELECT Statement**  
 ✅ **Chapter 4: Filtering Data – WHERE, ORDER BY, LIMIT**  
